@@ -1,0 +1,9 @@
+C:\Users\JO3QMA\Documents\Softwares\PSO2Tweaker4Ja\bin\Debug\PSO2 Tweaker.resources.dll
+C:\Users\JO3QMA\Documents\Softwares\PSO2Tweaker4Ja\bin\Debug\PSO2 Tweaker.resources.pdb
+C:\Users\JO3QMA\Documents\Softwares\PSO2Tweaker4Ja\bin\Debug\ru\PSO2 Tweaker.resources.resources.dll
+C:\Users\JO3QMA\Documents\Softwares\PSO2Tweaker4Ja\obj\Debug\PSO2 Tweaker.resources.csprojResolveAssemblyReference.cache
+C:\Users\JO3QMA\Documents\Softwares\PSO2Tweaker4Ja\obj\Debug\PSO2_Tweaker.GlobalStrings.ru.resources
+C:\Users\JO3QMA\Documents\Softwares\PSO2Tweaker4Ja\obj\Debug\PSO2 Tweaker.resources.csproj.GenerateResource.Cache
+C:\Users\JO3QMA\Documents\Softwares\PSO2Tweaker4Ja\obj\Debug\ru\PSO2 Tweaker.resources.resources.dll
+C:\Users\JO3QMA\Documents\Softwares\PSO2Tweaker4Ja\obj\Debug\PSO2 Tweaker.resources.dll
+C:\Users\JO3QMA\Documents\Softwares\PSO2Tweaker4Ja\obj\Debug\PSO2 Tweaker.resources.pdb
